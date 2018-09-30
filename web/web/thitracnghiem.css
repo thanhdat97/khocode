@@ -1,0 +1,13 @@
+body {  
+padding-top: 0px; 
+background-image:url(imgae/dk.jpg);
+}
+.form-control { 
+margin-bottom: 10px;
+}
+.login-screen-bg {  
+background-color: #EFEFEF;
+}
+.text-center{
+	color:yellow;
+}
